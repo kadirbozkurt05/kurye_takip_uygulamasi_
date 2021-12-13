@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195804923285",
+    "project_id": "kuryetakip-15f59",
+    "storage_bucket": "kuryetakip-15f59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195804923285:android:2ffbef1ca4c3d4f02a229c",
+        "android_client_info": {
+          "package_name": "com.example.kuryetakipuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195804923285-f9rrf9nq9oc73fuhbbvqe0af6q1dl8lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoM6WYAM1Lw1kbYdJ_ru5_lz1WiLt3I_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195804923285-f9rrf9nq9oc73fuhbbvqe0af6q1dl8lc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

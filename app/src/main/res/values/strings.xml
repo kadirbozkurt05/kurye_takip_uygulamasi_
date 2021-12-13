@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kurye Takip Uygulaması</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_admin_maps">AdminMapsActivity</string>
+    <string name="title_activity_courier_maps">CourierMapsActivity</string>
+</resources>
